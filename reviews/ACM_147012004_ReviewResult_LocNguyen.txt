@@ -1,0 +1,59 @@
+Manuscript ID: ACM_147012004
+Manuscript title: Compute the Presentations of GL(4,pk)
+
+1. The article title is appropriate.
+4
+
+2. The abstract accurately reflects the content.
+4.
+
+3. There are few grammatical errors and spelling mistakes in this article.
+3
+There are many grammatical errors and spelling mistakes. 
+
+4. The purpose or purported significance of the article is explicitly stated.
+3
+
+5. The literature review and research study methods are explained clearly.
+3
+
+6. The research study methods are sound and appropriate.
+4
+
+7. All figures, tables, and photos are necessary and appropriate.
+3
+
+8. The conclusions or summary are accurate and supported by the content.
+2
+There is no conclusion section.
+
+9. The references are comprehensive and appropriate.
+5
+
+10. There is enough new content in this paper to distinguish it from other works.
+3
+However this is very good survey research.
+
+11. If the paper is an extended version of a conference paper, the submission provides enough new material for journal publication.
+3
+
+12. Please give a frank account of the strengths and weaknesses of the article
+(When this is survey research, authors should give more proofs and opinions)
+
+13. Please provide detailed suggestions on how to improve the paper
+Although the research is interesting but it goes beyond the subject of the issue that is relevant to optimization.
+It belongs to abstract algebra. I regret to reject this submission. This is my difficult decision.
+I encourage authors to give (possibly theoretical) application of their research to optimization and re-submit their research.
+Moreover, I am willing to review again this manscript if authors submit to other issues or this journal "Applied and Computational Mathematics", relevant to abstract algebra.
+
+
+14. Minor comments (if any)
+Author should re-format the manuscript and check spelling errors.
+
+15. Confidential Comments (if any):
+
+16. Overall Evaluation:
+
+17. Upload the Reviewed Manuscript (If you have revised something on the manuscript 147012004):
+
+

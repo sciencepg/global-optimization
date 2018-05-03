@@ -1,0 +1,280 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.2.543
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 3
+
+[Relation1]
+Relation = y <= -2
+Constraints = x >= -2 and x <= 5 and y >= -7
+Style = 5
+Color = 0x0066FFCC
+LegendText = Descent region 1
+
+[Relation2]
+Relation = y <= -4.6
+Constraints = x >= 1.84 and x <=5 and y >= -7
+Style = 4
+Color = 0x0066FFCC
+LegendText = Descent region 2
+
+[Label1]
+Placement = 0
+Pos = -4.62365591397849;-0.773809523809523
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Times New Roman;}Times New Roman Greek;}{\\f1\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\i\\f0\\fs24\\'f9\\super\\b0\\f1 0\\nosupersub\\i0  = (-2.76, -1)\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 1
+xGridUnit = 1
+yMin = -10
+yMax = 10
+yTickUnit = 2
+yGridUnit = 2
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[PointSeries1]
+FillColor = clBlack
+LineColor = clBlue
+Size = 4
+Style = 0
+LabelPosition = 1
+PointCount = 1
+Points = -2.76,-1;
+LegendText = Initial point
+
+[PointSeries2]
+FillColor = clBlack
+LineColor = clBlue
+Size = 4
+Style = 0
+LabelPosition = 1
+PointCount = 1
+Points = 1.84,-3;
+LegendText = Descent point
+
+[PointSeries3]
+FillColor = clBlack
+LineColor = clBlue
+Size = 4
+Style = 1
+LabelPosition = 1
+PointCount = 1
+Points = -2,-2;
+LegendText = Local minimum point
+
+[PointSeries4]
+FillColor = clBlack
+LineColor = clBlue
+Size = 4
+Style = 1
+LabelPosition = 1
+PointCount = 1
+Points = 3,-4.6;
+LegendText = Global minimum point
+
+[Label2]
+Placement = 0
+Pos = -2.45322580633235;-2.12142857132544
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\i\\f0\\fs24 x\\super\\b0\\i0 *\\nosupersub  = (-2, -2)\\f1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label3]
+Placement = 0
+Pos = 2.52688172043011;-4.73214285714286
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\f0\\fs24 z\\super\\b0\\i **\\nosupersub\\i0  = (3, -4.6)\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func1]
+FuncType = 0
+y = -3
+LegendText = Intersection equation
+Color = clBlack
+
+[Label4]
+Placement = 0
+Pos = -4.03225806451613;-3.06547619047619
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil\\fcharset161{\\*\\fname Times New Roman;}Times New Roman Greek;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 Intersection equation: \\i f\\i0 (\\b\\i x\\b0\\i0 ) + 3 \\f1 =\\f0  \\f1 0\\i\\f0\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func2]
+FuncType = 1
+x = 1/2
+y = t
+From = -3
+To = -2
+Steps = 1000
+Style = 2
+Color = clBlack
+
+[Label5]
+Placement = 0
+Pos = 0.537096774167436;-2.29017857131723
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Times New Roman;}Times New Roman Greek;}{\\f1\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\i\\f0\\fs24\\'e5\\i0\\f1  = 1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label6]
+Placement = 0
+Pos = 1.86379928315412;-2.41071428571429
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\f0\\fs24 z\\super\\b0\\i 0\\nosupersub  \\i0 = (1.84, -3)\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func3]
+FuncType = 0
+y = 2
+LegendText = Solution volume [-4, 5]
+From = -4
+To = 5
+Style = 1
+Color = clRed
+StartPoint = 7
+EndPoint = 6
+
+[Label7]
+Placement = 0
+Pos = 0.609318996415771;1.57738095238095
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red255\\green0\\blue0;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 Solution volume [-2, 5]\\cf2\\b\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func4]
+FuncType = 0
+y = 1
+LegendText = Solution volume [-2, 5]
+From = -2
+To = 5
+Style = 1
+Color = clRed
+StartPoint = 7
+EndPoint = 6
+
+[Func5]
+FuncType = 0
+y = -5.6
+LegendText = Intersection equation
+Color = clBlack
+
+[Label8]
+Placement = 0
+Pos = 0.609318996415771;2.55952380952381
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red255\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 Solution volume [-4, 5]\\b\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label9]
+Placement = 0
+Pos = -4.33691756272401;-5.59523809523809
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil\\fcharset161{\\*\\fname Times New Roman;}Times New Roman Greek;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 Intersection equation: \\i f\\i0 (\\b\\i x\\b0\\i0 ) + 5.6 \\f1 =\\f0  \\f1 0\\f0\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func6]
+FuncType = 1
+x = 1/2
+y = t
+From = -5.6
+To = -4.6
+Steps = 1000
+Style = 2
+Color = clBlack
+
+[Label10]
+Placement = 0
+Pos = 0.555555555555556;-4.82142857142857
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Times New Roman;}Times New Roman Greek;}{\\f1\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\i\\f0\\fs24\\'e5\\i0\\f1  = 1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func7]
+FuncType = 1
+x = 4.5
+y = t
+LegendText = Descent region 1
+From = -7
+To = -2
+Steps = 1000
+Style = 1
+Color = clRed
+StartPoint = 3
+EndPoint = 3
+
+[Func8]
+FuncType = 1
+x = 5
+y = t
+LegendText = Descent region 2
+From = -7
+To = -4.6
+Steps = 1000
+Style = 1
+Color = clRed
+StartPoint = 3
+EndPoint = 3
+
+[Label11]
+Placement = 0
+Pos = 3.2258064516129;-6.96428571428571
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red255\\green0\\blue0;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\f0\\fs24 Descent regions\\cf2\\b0\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Func9]
+FuncType = 0
+y = (x^4)/16 - (x^3)/12 -3x^2/4 -2/3
+Color = clBlack
+Size = 2
+TanCount = 4
+
+[Func9Tan1]
+t = -2.76
+From = -3.5
+To = -2.43
+Color = clRed
+DrawType = 2
+
+[Func9Tan2]
+t = -2
+Style = 2
+Color = clBlack
+DrawType = 2
+
+[Func9Tan3]
+t = 1.84
+From = 0.5
+To = 2.61
+Color = clRed
+DrawType = 2
+
+[Func9Tan4]
+t = 3
+Style = 2
+Color = clBlack
+DrawType = 2
+
+[Label12]
+Placement = 0
+Pos = 0.645161290322581;3.98809523809524
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\i\\f0\\fs24 f\\i0 (\\i x\\i0 ) = 1/16\\i x\\super 4\\nosupersub\\i0  - 1/12\\i x\\super 3\\nosupersub\\i0  - 3/4\\i x\\super 2\\nosupersub\\i0  - 2/3\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 12
+FuncCount = 9
+PointSeriesCount = 4
+ShadeCount = 0
+RelationCount = 2
+OleObjectCount = 0
+

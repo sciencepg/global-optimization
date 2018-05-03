@@ -1,0 +1,393 @@
+----------Group Invitation----------
+Subject: Invitation to join the group "Global Optimization"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist,
+Your expertise in science is appreciated very much.
+I kindly invite you to join the group "Global Optimization".
+
+We always try our best to create best results but how we can do so? Mathematical optimization is a good answer for above question if our problems can be modeled by mathematical model. The common model is analytic function and it is very easy for us to know that optimization becomes finding out extreme points of such function. The group focuses on global optimization which means that how to find out the global peak over the whole function. It is very interesting problem because there are two realistic cases as follows:
+- We want to get the best solution and there is no one better than this solution.
+- Given a good solution, we want to get another better solution.
+However, global optimization is also complicated because it is relevant to other mathematical subject such as solution existence and approximation. The group also mentions these subjects. Algorithms and applied methods to solve problem of global optimization are appreciated.
+The group is associated with the Special Issue entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” in the journal of “Applied and Computational Mathematics” [ISSN: 2328-5605 (Print), 2328-5613 (Online)], a peer-reviewed journal of Science Publishing Group.
+http://www.sciencepublishinggroup.com/specialissue/147012
+In other words, you are also author, reviewer, and editor within this Special Issue.
+
+As member of this group, you are encouraged in sharing your professional knowledge and experiences, submitting your manuscripts, enjoying new articles and book, etc. Moreover you are warmly invited to review other members' articles as a reviewer/editor.
+
+Your knowledge, experiences, and contributions are very important and necessary for our group to be successful.
+Best regards,
+
+
+----------Group Invitation 2----------
+Subject: Invitation to join the group "Global Optimization"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist,
+Your expertise in science is appreciated very much.
+I kindly invite you to join the group "Global Optimization".
+
+We always try our best to create best results but how we can do so? Mathematical optimization is a good answer if our problems can be modeled by analytic functions. Global optimization aims to find out the global peak over the whole function. It is also relevant to other mathematical subject such as solution existence and approximation.
+
+The group is associated with the Special Issue entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” http://www.sciencepublishinggroup.com/specialissue/147012.
+
+As member of this group, you are encouraged in sharing your professional knowledge and experiences, submitting your manuscripts, review other members' articles as a reviewer/editor, etc.
+
+Your knowledge, experiences, and contributions are very important and necessary for our group to be successful.
+Best regards,
+
+
+----------Group Welcome Letter----------
+Subject: Welcome you to join the group "Global Optimization"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist
+Welcome you to join the group "Global Optimization".
+Your expertise is appreciated in the group very much.
+As member of this group, you are encouraged in sharing your professional knowledge and experiences, submitting your manuscripts, enjoying new articles and book, etc. Moreover you are warmly invited to review other members' articles as a reviewer/editor.
+
+We always try our best to create best results but how we can do so? Mathematical optimization is a good answer for above question if our problems can be modeled by mathematical model. The common model is analytic function and it is very easy for us to know that optimization becomes finding out extreme points of such function. The group focuses on global optimization which means that how to find out the global peak over the whole function. It is very interesting problem because there are two realistic cases as follows:
+- We want to get the best solution and there is no one better than this solution.
+- Given a good solution, we want to get another better solution.
+However, global optimization is also complicated because it is relevant to other mathematical subject such as solution existence and approximation. The group also mentions these subjects. Algorithms and applied methods to solve problem of global optimization are appreciated.
+The group is associated with the Special Issue entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” in the journal of “Applied and Computational Mathematics” [ISSN: 2328-5605 (Print), 2328-5613 (Online)], a peer-reviewed journal of Science Publishing Group.
+http://www.sciencepublishinggroup.com/specialissue/147012
+In other words, you are also author, reviewer, and editor within this Special Issue.
+
+Your knowledge, experiences, and contributions are very important and necessary for our group to be successful.
+Best regards,
+
+
+----------Call for Papers----------
+Subject: Call for Papers for Special Issue “Some Novel Algorithms for Global Optimization and Relevant Subjects”
+From: Loc Nguyen <ng_phloc@yahoo.com>
+To: global-optimization@googlegroups.com, Researchers
+
+[I apologize to you if this email make you in trouble]
+Dear Researcher/Scholar/Professor/Scientist,
+Science Publishing Group has published a Special Issue entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” in the journal of “Applied and Computational Mathematics” [ISSN: 2328-5605 (Print), 2328-5613 (Online)], a peer-reviewed journal.
+http://www.sciencepublishinggroup.com/specialissue/147012
+
+This Special Issue aims to publish original researches of the highest scientific quality in the field of global optimization and relevant subjects. It plans to offer a strong and easy access platform for original high quality innovations and scientific papers in order to enhance the international communication between engineers and scientists of the field of interest. 
+
+Both experimental and theoretical contributions of original and high quality are invited to submit to this special issue. Original innovative studies are highly encouraged.
+
+Scientific Topics include but are not limited to the following:
+1. Global optimization (main subject)
+2. Finding out solution of equations (optional)
+3. Approximation (optional)
+
+Important Dates:
+Submission Due Date: June 1, 2017
+Publication Time: July, 2017
+
+Author Guidelines and Paper Submission System:
+Details information about author guidelines and online paper submission system are available at
+http://www.sciencepublishinggroup.com/journal/papersubmission.aspx?journalid=147
+Or authors can send their manuscripts to email address: ng_phloc@yahoo.com
+
+Lead Guest Editor:
+Loc Nguyen
+Sunflower Soft Company, Ho Chi Minh city, Vietnam
+ng_phloc@yahoo.com
+
+Special Discount for Accepted Paper: 
+Authors, who submit paper through Lead Guest Editor, can enjoy 30% discount (for accepted papers only).
+
+Your knowledge, experiences, and contributions are very important and necessary for our special issue to be successful.
+Best regards,
+
+
+----------Call for Editors----------
+Subject: Call for Editors for Special Issue “Some Novel Algorithms for Global Optimization and Relevant Subjects”
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+[I apologize to you if this email make you in trouble]
+Dear Researcher/Scholar/Professor/Scientist,
+Science Publishing Group has published a Special Issue entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” in the journal of “Applied and Computational Mathematics” [ISSN: 2328-5605 (Print), 2328-5613 (Online)], a peer-reviewed journal.
+http://www.sciencepublishinggroup.com/specialissue/147012
+
+This Special Issue aims to publish original researches of the highest scientific quality in the field of global optimization and relevant subjects. It plans to offer a strong and easy access platform for original high quality innovations and scientific papers in order to enhance the international communication between engineers and scientists of the field of interest. Scientific Topics include but are not limited to the following:
+1. Global optimization (main subject)
+2. Finding out solution of equations (optional)
+3. Approximation (optional)
+
+I appreciate your expertise in science and kindly invite you to review/assess submitted papers as editor in order to enhance the high quality to these papers. If you accept to be an editor of this special issue, please register an account in http://www.sciencepublishinggroup.com and then join the special issue “Some Novel Algorithms for Global Optimization and Relevant Subjects” shown in Science Publishing Group system.
+
+If you have any problem, do not hesitate to contact me, a Lead Guest Editor, via this email address: ng_phloc@yahoo.com
+
+Your knowledge, experiences, and contributions are very important and necessary for our special issue to be successful.
+Best regards,
+
+
+----------Review Invitation----------
+Subject: Kindly invite you to review paper
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist
+On behalf of the special issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" (http://www.sciencepublishinggroup.com/specialissue/147012) in the journal of “Applied and Computational Mathematics”, I kindly invite you to review the manuscript below.
+My invitation is based on your professional knowledge and contributions to research related to the manuscript's topic area.
+
+Paper ID:
+Paper Title:
+Abstract:
+Review due date:
+
+If you do not review the manuscript, please recommend it to your scholars who concern its topic area.
+Your assessment on the manuscript is the great contribution to the success of the group, which also helps authors to improve their manuscript.
+I would like to appreciate and thank your present and future participation.
+
+If you have an account in Science Publishing Group system http://www.sciencepublishinggroup.com, please submit review results via this system.
+Or you can send review results directly to this email.
+(Please send review results directly to this email. The attached includes the paper and review form.)
+
+If you have any problems, please contact me.
+Best regards,
+
+
+----------Review Invitation 2----------
+Subject: Special 147012: Kindly invite you to review paper
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist
+On behalf of the special issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" (http://www.sciencepublishinggroup.com/specialissue/147012) in the journal of “Applied and Computational Mathematics”, I kindly invite you to review the manuscript below.
+My invitation is based on your professional knowledge and contributions to research related to the manuscript's topic area.
+
+Paper ID:
+Paper Title:
+Abstract:
+Review due date:
+
+If you do not review the manuscript, please recommend it to your scholars who concern its topic area.
+Your assessment on the manuscript is the great contribution to the success of the group, which also helps authors to improve their manuscript.
+I would like to appreciate and thank your present and future participation.
+
+If you have an account in Science Publishing Group system http://www.sciencepublishinggroup.com, please submit review results via this system according to follows steps:
+Step 1: Login SciencePG online system: http://www.sciencepublishinggroup.com/login.aspx. 
+Step 2: Click "All Submissions" on the left column, you will see new submissions which you need to review. 
+Step 3: Click "Download Manuscript File" and review. 
+Step 4: Fill in the online review form within 7 days.
+
+On the other hand you can send review form directly to this email.
+
+If you have any problems, please contact me.
+Best regards,
+
+
+----------Kind Review Remind----------
+Subject: Waiting for your review on the manuscript "XYZ"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Researcher/Scholar/Professor/Scientist
+On behalf of the special issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" (http://www.sciencepublishinggroup.com/specialissue/147012) in the journal of “Applied and Computational Mathematics”, I thank you for accepting to review the manuscript below.
+
+Paper ID:
+Paper Title:
+Review due date:
+
+I kindly remind you to send me the review results in time because there remains 3 days before the due date and I need to make decision on the manuscript in time.
+(Until now I did not receive your review results on this manuscripts. Please send me the review results soon because they are very important for authors to improve their work and I need to make decision on the manuscript in time.)
+
+If you do not review the manuscript, please recommend it to your scholars who concern its topic area.
+Your assessment on the manuscript is the great contribution to the success of the issue, which also helps authors to improve their manuscript.
+I would like to appreciate and thank your present and future participation.
+
+If you have an account in Science Publishing Group system http://www.sciencepublishinggroup.com, please submit review results via this system.
+Or you can send review results directly to this email.
+
+If you have any problems, please contact me.
+Best regards,
+
+
+----------Response to Review Result----------
+Subject: Appreciation Letter to Review Evaluation
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Prof.
+On behalf of the Special Issue "Some Novel Algorithms for Global Optimization and Relevant Subjects", I appreciate your review evaluation on the paper entitled "".
+Your helpful comments will help authors to improve their work.
+Many thanks to you for your enthusiastic contributions to our issue. The attached is the letter of appreciation for your contribution.
+
+Your knowledge, experiences, and contributions are very important and necessary for our issue to be successful.
+If you have any problems, please contact me.
+Best regards,
+
+
+----------Response to Review Rejection----------
+Subject: Thank you very much for kind response
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Prof.
+Thank you very much for kind response.
+There is no problem. There are many manuscripts that need your evaluation in future.
+Have a nice day!
+
+I concern very much your excellent works relevant to ...
+I am waiting for your new submissions.
+Your knowledge, experiences, and contributions are very important and necessary for our issue to be successful.
+
+Please keep in touch with me.
+Best regards,
+
+
+----------Applogize for Calling----------
+Dear Researcher/Scholar/Professor/Scientist
+I apologize you very much for spam mail.
+I will not send you this email again.
+Best regards,
+
+
+----------Request for publication of manuscripts----------
+Subject: Request for publication of manuscripts "XYZ"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Sir/Madam
+I am a Lead Guest Editor of special issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" available at http://www.sciencepublishinggroup.com/specialissue/147012.
+Three manuscripts of the issue X, Y, and Z are accepted to be published from <date>.
+I am waiting for the publications but I have not received the notification yet until now.
+I am worried very much because these manuscripts are very important to my research career.
+Moreover, I need to make a CFP for the issue.
+Please keep in touch with me.
+I am waiting for your response.
+Best regards,
+
+
+----------Request for editor information----------
+Subject: Request for editor information of special issue "Some Novel Algorithms..."
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Professor
+Thank you very much for joining the Editorial Board of the special issue "Some Novel Algorithms for Global Optimization and Relevant Subjects", Science Publishing Group.
+http://www.sciencepublishinggroup.com/specialissue/147012
+
+Your knowledge, experiences, and contributions are very important and necessary for our issue successful.
+I need your information in order to show it online. This is my biggest honor and happiness.
+Please fulfill below information and send back to me via this email address.
+
+First Name: 
+Last Name: 
+Department/Faculty: 
+University/Institute: 
+City: 
+Province (if any): 
+Country:
+
+I am waiting for your response.
+Best regards,
+
+
+----------Request for listing editors----------
+Subject: Request for listing editors
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Sir/Madam
+I am a Lead Guest Editor of the Special Issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" available at http://www.sciencepublishinggroup.com/specialissue/147012
+I am very happy and honorable when many scientists applied to the issue.
+I have just accepted all of them and desire to list their names on the issue website.
+However, only two of them are listed.
+Please help me to fix this problem.
+Followings are my editors together with their names and email addresses:
+
+1. A M: a.m@gmail.com, a.m@yahoo.com
+2. Janna Barakova: Janna05_05@mail.ru, Janna_1959@mail.ru
+3. abhay sharma: abhaysharma2004@gmail.com, abhaysharma2004@gmail.com
+4. Kavitha Rajamani: kavitha.rajamanii@gmail.com, kavibala4283@gmail.com
+5. Qingyuan Li: liqy@casm.ac.cn, 915976718@qq.com
+6. Jianqiang Gao: jianqianggaohh@126.com, dr.jq.gao@gmail.com
+
+I am waiting for your response.
+Best regards,
+
+
+----------Request for listing editor----------
+Subject: Request for listing editor
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Sir/Madam
+I am a Lead Guest Editor of the Special Issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" available at http://www.sciencepublishinggroup.com/specialissue/147012
+Thank you very much for showing our Editorial Board member on our issue website.
+This is our biggest honor and happiness.
+There is a new professor who has just provided her/his information as follows:
+
+First Name: 
+Last Name: 
+Title: Prof. Dr.
+Department/Faculty:  
+University/Institute: 
+City:
+Province (if any): 
+Country: 
+
+I am waiting for your response.
+Best regards,
+
+
+----------Special Issue Welcome Letter----------
+Subject: Welcome Letter for Joining Special Issue "Some Novel Algorithms for Global Optimization and Relevant Subjects"
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Professor
+Welcome you to join the Special Issue "Some Novel Algorithms for Global Optimization and Relevant Subjects" as honorable editor.
+Your expertise is appreciated in the issue very much.
+You are warmly invited to review manuscripts submitted to the issue.
+Moreover you are warmly invited to join the group "Global Optimization".
+As member of this group, you are encouraged in sharing your professional knowledge and experiences, submitting your manuscripts, enjoying new articles and book, etc. 
+
+Your knowledge, experiences, and contributions are very important and necessary for our issue and group to be successful.
+Best regards,
+
+
+----------Special Issue Congratulation Letter----------
+Subject: Congratulate you on being Editor of Special Issue “Some Novel Algorithms for Global Optimization and Relevant Subjects”
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Prof.
+On behalf of Special Issue “Some Novel Algorithms for Global Optimization and Relevant Subjects” - Journal of Applied and Computational Mathematics - Science Publishing Group,
+I am very honored and happy to announce that you are officially accepted as Guest Editor of this Special Issue.
+Your name and affiliation is honorably shown in our issue available at http://www.sciencepublishinggroup.com/specialissue/147012
+
+As Guest Editor, you are encouraged in contributing your interesting works to our issue and helping Editorial Board to assess and decide other authors' submissions.
+Moreover you can enjoy publication fee discount.
+Please download your Official Certificate of Guest Editor from Science Publishing Group system.
+
+Your knowledge, experiences, and contributions are very important and necessary for our issue to be successful.
+Best regards,
+
+
+----------Status Notification----------
+Subject: Status Notification
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Sir/Madam,
+Thank you very much for your kind remind and enthusiasm.
+This is my biggest honor and happiness.
+I am very happy to notify you the status of our Special Issue 147012 entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” in the journal of “Applied and Computational Mathematics”, Science Publishing Group. Our issue is available at http://www.sciencepublishinggroup.com/specialissue/147012, which has some recent achievements as follows:
+
+1. Number of published articles: 7
+The newest article is the excellent work "Global Optimization with Descending Region Algorithm" of author Loc Nguyen.
+
+2. Number of accepted manuscripts: 4
+
+3. Number of Guest Editors: 41
+
+4. Number of authors: 6
+
+I will try my best to call for papers and complete more papers.
+Please keep in touch with me.
+Best regards,
+
+
+----------Acceptance Letter----------
+Subject: Acceptance Letter
+From: Loc Nguyen <ng_phloc@yahoo.com>
+
+Dear Sir/Madam
+Thank you very much for your kind remind and enthusiasm.
+I am very honored and happy to serve our SciencePG as Lead Guest Editor of our Special Issue 147012 entitled “Some Novel Algorithms for Global Optimization and Relevant Subjects” of Applied and Computational Mathematics Journal available at http://www.sciencepublishinggroup.com/specialissue/147012.
+
+After receiving review results from my Editorial Board, I accept the manuscript entitled "" published in the issue 147012.
+
+I will try my best to call for papers and complete more papers.
+Please keep in touch with me.
+Best regards, 

@@ -1,0 +1,72 @@
+Manuscript ID: ACM_147012006
+Manuscript title: Comparison of Singular Perturbations Approximation Method and Meta-heuristic-based Techniques for Order Reduction of 
+Linear Discrete Systems
+
+
+1. The article title is appropriate.
+5
+
+2. The abstract accurately reflects the content.
+5
+
+3. There are few grammatical errors and spelling mistakes in this article.
+4
+Author should re-format mathematical equations more good-looking. Please follow SciencePG template.
+
+4. The purpose or purported significance of the article is explicitly stated.
+5
+
+5. The literature review and research study methods are explained clearly.
+4
+
+6. The research study methods are sound and appropriate.
+5
+
+7. All figures, tables, and photos are necessary and appropriate.
+5
+
+8. The conclusions or summary are accurate and supported by the content.
+5
+
+9. The references are comprehensive and appropriate.
+5
+
+10. There is enough new content in this paper to distinguish it from other works.
+4
+
+11. If the paper is an extended version of a conference paper, the submission provides enough new material for journal publication.
+4
+
+12. Please give a frank account of the strengths and weaknesses of the article
+4
+The main contribution of this research is to make a comparison between Singular Perturbations Approximation (SPA) method and meta-heuristic techniques (PSO and SFLA) for order reduction of discrete linear systems. Author also make numerical simulation on the comparison.
+
+Brief comments of other editor:
+Some algorithms are presented comparative examples in the article. However, such a comparison is expected to give better results SFLA algorithm, PSO algorithm appears to be better. Strengths: It understands how to respond algorithms when applied to some systems. Weaknesses: Already PSO and the GA is well known, is expected to give better results SFLA algorithm, but it is not.
+
+13. Please provide detailed suggestions on how to improve the paper
+4
+Followings are comments on enhancing the manuscripts:
+- Author should improve the section 2.1 with more explanations. For example, please describes shortly quantities Ar, Br, Cr.
+
+
+14. Minor comments (if any)
+4
+- Please follow SciencePG template.
+- Section 2.1 should be improved because it is the most important one this this survey research. The connection between SPA (matrices) and order reduction (z-transfer function) should be mentioned explicitly.
+- Author stated that "However, compared to PSA method, the transient responses of evolutionary reduced model by PSO and SFLA are very close to that of original model". However, the table 3 indicates that PSO and SPA are closer to original model (especially, from 0 to 10).
+- Author should mention SPA method in the conclusion section.
+
+
+15. Confidential Comments (if any):
+4
+The attached includes some corrections in your paper. Please use SciencePG template.
+
+
+16. Overall Evaluation:
+4
+The article is well written in general. However, there are some deficiencies. For example, matrixes A111 and A211 (in equations 16 and 18) should be clearly stated step by step. In other words, section 2.1 should be improved with more explanations.
+
+17. Upload the Reviewed Manuscript (If you have revised something on the manuscript 147012004):
+
+
